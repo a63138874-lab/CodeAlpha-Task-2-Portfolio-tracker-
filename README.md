@@ -98,6 +98,5 @@ Stock-Portfolio-Tracker/
 - Show percentage distribution of each stock.
 - Add GUI version using Tkinter or Streamlit.
 
-## Author
-Ashwini 
+ ## Author
 Created as a beginner Python project for learning dictionaries, loops, input handling, and file operations.
